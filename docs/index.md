@@ -1,8 +1,8 @@
 ---
-title: Happy UI
+title: Practice UI
 hero:
-  title: Happy UI
-  desc: 文档站点基于 dumi 生成
+  title: Practice UI
+  desc: 一个react的组件库
   actions:
     - text: 快速上手
       link: /getting-started
